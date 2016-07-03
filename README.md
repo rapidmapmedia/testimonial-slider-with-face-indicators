@@ -12,7 +12,9 @@ In ClickFunnels, the following link tag is already implemented so it is not requ
 &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css&quot;&gt;
 ```
 However the compiled and minified bootstrap for CSS was breaking the width layout of the clickFunnel pages being created. Omitting the following link tag resolved this layout issue.<br>
-&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css&quot;&gt;
+```
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+```
 
 <strong>Original Source:</strong><br>
 Bootsnipp.com/snippets/k2VZB
