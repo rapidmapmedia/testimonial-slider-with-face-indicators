@@ -14,4 +14,5 @@ However the compiled and minified bootstrap for CSS was breaking the width layou
 &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css&quot;&gt;
 
 <strong>Original Source:</strong><br>
-http://bootsnipp.com/snippets/k2VZB
+<a href="http://bootsnipp.com/snippets/k2VZB" target="_blank">http://bootsnipp.com/snippets/k2VZB</a>
+
