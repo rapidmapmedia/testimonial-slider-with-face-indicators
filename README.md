@@ -12,3 +12,6 @@ In ClickFunnels, the following link tag is already implemented so it is not requ
 
 However the compiled and minified bootstrap for CSS was breaking the width layout of the clickFunnel pages being created. Omitting the following link tag resolved this layout issue.<br>
 &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css&quot;&gt;
+
+<strong>Original Source:</strong><br>
+http://bootsnipp.com/snippets/k2VZB
