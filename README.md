@@ -1,5 +1,6 @@
 # testimonial-slider-with-face-indicators
 Coding for testimonial slider with face profile for indicators. 
+Preview code - http://htmlpreview.github.io/?https://github.com/rapidmapmedia/testimonial-slider-with-face-indicators/blob/master/index.html
 
 <strong>Required:</strong><br>
 HTML, CSS, Bootstrap, JQuery
